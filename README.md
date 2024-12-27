@@ -1,4 +1,4 @@
-# AI_Algortihm_Project
+# AI_Algorithm_Project
 School project about optimization with different algortihm. The goal was to explore and implement approaches that could lead to good results. 
 The explored algorithms was mainly genetic algorithm, local search algorithms and reinforcement learning using pytorch.
 
